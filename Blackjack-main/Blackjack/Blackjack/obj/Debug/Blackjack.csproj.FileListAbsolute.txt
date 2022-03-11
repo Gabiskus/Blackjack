@@ -1,0 +1,21 @@
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\obj\Debug\Blackjack.Blackjack.resources
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\a\Desktop\Black Jack\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.SuggestedBindingRedirects.cache
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\obj\Debug\Blackjack.Form1.resources
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\GymcoPc1\Desktop\Blackjack-main\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
