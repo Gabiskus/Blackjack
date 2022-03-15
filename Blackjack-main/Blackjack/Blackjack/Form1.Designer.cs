@@ -38,6 +38,9 @@ namespace Blackjack
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.resultLabel = new System.Windows.Forms.TextBox();
+            this.reset = new System.Windows.Forms.Button();
+            this.start = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -120,12 +123,42 @@ namespace Blackjack
             this.button5.Text = "Predaja";
             this.button5.UseVisualStyleBackColor = true;
             // 
+            // resultLabel
+            // 
+            this.resultLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.resultLabel.Location = new System.Drawing.Point(585, 22);
+            this.resultLabel.Name = "resultLabel";
+            this.resultLabel.Size = new System.Drawing.Size(243, 30);
+            this.resultLabel.TabIndex = 9;
+            // 
+            // reset
+            // 
+            this.reset.Location = new System.Drawing.Point(157, 558);
+            this.reset.Name = "reset";
+            this.reset.Size = new System.Drawing.Size(144, 56);
+            this.reset.TabIndex = 10;
+            this.reset.Text = "Reset";
+            this.reset.UseVisualStyleBackColor = true;
+            // 
+            // start
+            // 
+            this.start.Location = new System.Drawing.Point(159, 481);
+            this.start.Name = "start";
+            this.start.Size = new System.Drawing.Size(142, 56);
+            this.start.TabIndex = 11;
+            this.start.Text = "Start";
+            this.start.UseVisualStyleBackColor = true;
+            this.start.Click += new System.EventHandler(this.start_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1428, 626);
+            this.Controls.Add(this.start);
+            this.Controls.Add(this.reset);
+            this.Controls.Add(this.resultLabel);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -140,6 +173,7 @@ namespace Blackjack
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -153,6 +187,9 @@ namespace Blackjack
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.TextBox resultLabel;
+        private System.Windows.Forms.Button reset;
+        private System.Windows.Forms.Button start;
     }
 }
 
